@@ -106,6 +106,7 @@ Prevents invalid inputs and missing IDs.
 python --version
 python "Project code.py"
 
+
 ## 📸 Screenshots
 (Add screenshots of your application here)
 
