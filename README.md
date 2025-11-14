@@ -104,9 +104,9 @@ Prevents invalid inputs and missing IDs.
 ### 1. Check Python Installation
 ```bash
 python --version
-### 2. Run the Application
-```bash
 python "Project code.py"
+
+
 
 
 
