@@ -47,4 +47,62 @@ Technologies used:
 ---
 
 ## 🏗️ Project Structure
+---
+
+## ⚙️ How It Works
+
+### 1️⃣ Startup Screen
+User selects:
+- Manager  
+- User  
+- Exit  
+
+### 2️⃣ Manager Dashboard
+After entering the correct password:
+- Add, Update, Delete equipment  
+- View inventory  
+
+### 3️⃣ User Dashboard
+Users can:
+- View all equipment  
+- Click an item to view detailed instructions & benefits  
+
+### 4️⃣ Database Fields
+- Equipment ID  
+- Name  
+- Category  
+- Quantity  
+- Price  
+- Usage Instructions  
+- Sets/Reps  
+- Benefits  
+
+---
+
+## 🧩 Modules Overview
+
+### ✔ Database Module
+Creates and manages SQLite tables.
+
+### ✔ CRUD Module
+Handles add, update, delete, and view operations.
+
+### ✔ GUI Module
+Menu-driven Tkinter interface using:
+- Frames  
+- Buttons  
+- Entry fields  
+- TreeView  
+
+### ✔ Validation & Error Handling
+Prevents invalid inputs and missing IDs.
+
+---
+
+## 🚀 How to Run
+
+### 1. Check Python Installation
+```bash
+python --version
+
 
