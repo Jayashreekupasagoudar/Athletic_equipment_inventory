@@ -106,24 +106,8 @@ Prevents invalid inputs and missing IDs.
 python --version
 python "Project code.py"
 
-
-
 ## 📸 Screenshots
 (Add screenshots of your application here)
-
-
-## 🔮 Future Enhancements
-- Add search and filter options
-- Generate Excel/CSV reports
-- Create a web version using Flask + React
-- Add maintenance reminders for equipment
-- Add user login & profile system
-
-## 🏁 Conclusion
-This project provides a complete and efficient solution for managing athletic equipment. 
-With a role-based system, GUI interface, and SQLite database, it ensures accuracy, ease of use, 
-and scalability for gyms, sports centers, and training facilities.
-
 
 
 
